@@ -1,7 +1,7 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint1;
 namespace Tyuiu.RubankoGV.Sprint1.Task0.V14.Lib
 {
-    public class DataService : ISprint1Task0V0
+    public class DataService : ISprint1Task0V14
     {
         public double Calculate()
         {
